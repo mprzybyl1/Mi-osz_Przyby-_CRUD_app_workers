@@ -1,0 +1,10 @@
+C:\Users\Milosz\Downloads\csharp-winforms-crud-master\csharp-winforms-crud-master\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Milosz\Downloads\csharp-winforms-crud-master\csharp-winforms-crud-master\CRUD\bin\Debug\CRUD.exe
+C:\Users\Milosz\Downloads\csharp-winforms-crud-master\csharp-winforms-crud-master\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Milosz\Downloads\csharp-winforms-crud-master\csharp-winforms-crud-master\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\Milosz\Downloads\csharp-winforms-crud-master\csharp-winforms-crud-master\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\Milosz\Downloads\csharp-winforms-crud-master\csharp-winforms-crud-master\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\Milosz\Downloads\csharp-winforms-crud-master\csharp-winforms-crud-master\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\Milosz\Downloads\csharp-winforms-crud-master\csharp-winforms-crud-master\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Milosz\Downloads\csharp-winforms-crud-master\csharp-winforms-crud-master\CRUD\obj\Debug\CRUD.exe
+C:\Users\Milosz\Downloads\csharp-winforms-crud-master\csharp-winforms-crud-master\CRUD\obj\Debug\CRUD.pdb
