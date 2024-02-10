@@ -1,0 +1,1 @@
+Program napisany w technologii microsoft forms, z wykorzystaniem bazy danych MSSQL. Program realizuje wyświetlanie listy pracowników z bazy danych, modyfikacji rekordów, usuwanie pracowników z bazy oraz dodawanie nowych pracowników. Operacje na bazie danych wykonywane są z wykorzystaniem procedur SQL na windows server.
